@@ -1,4 +1,4 @@
-# toto_flutter_app
+# todo_flutter_app
 Simple app to add tasks in a list and mark them when done.
 
 # No Task Screen
